@@ -12,16 +12,16 @@ title                    : "Back to Home"
 title_separator          : "-"
 name                     : &name "Thomas Nguyen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ThomasMHNguyen/thomasmnguyen.github.io.git"
+repository               : "ThomasMHNguyen/thomasmhnguyen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Thomas Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Chemical Engineering Ph.D. Candidate (2019-Present) at UC Davis"
