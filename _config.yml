@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Back to Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Thomas Nguyen"
 description              : &description "personal description"
-url                      : thomasmhnguyen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://thomasmhnguyen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ThomasMHNguyen/thomasmhnguyen.github.io"
 
