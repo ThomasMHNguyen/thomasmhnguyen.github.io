@@ -12,4 +12,12 @@ Gemfile.lock
 node_modules
 package-lock.json
 
+# Used for VS Code
 current_job.code-workspace
+
+# Remove Blog Posts Page
+
+
+#Remove Specific pages
+_posts/
+_teaching/
