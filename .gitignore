@@ -16,7 +16,6 @@ package-lock.json
 current_job.code-workspace
 
 # Remove Specific Pages
-_pages/teaching.html
 _talks/2013-03-01-tutorial-1.md
 
 #Remove Specific folders
