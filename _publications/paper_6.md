@@ -3,6 +3,7 @@ title: "Lysine methyltransferase Kmt2d regulates naive CD8+ T cell activation-in
 collection: publications
 permalink: /publication/paper_6
 date: 2023-01-19
+category: manuscripts
 venue: 'Frontiers in Immunology'
 slidesurl: #
 paperurl: 'https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1095140/full'

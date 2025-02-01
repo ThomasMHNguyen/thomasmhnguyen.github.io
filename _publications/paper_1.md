@@ -1,6 +1,8 @@
+---
 title: "TCR Repertoires of Thymic Conventional and Regulatory T Cells: Identification and Characterization of Both Unique and Shared TCR Sequences"
 collection: publications
 permalink: /publication/paper_1
+category: manuscripts
 date: 2020-02-15
 venue: 'The Journal of Immunology'
 slidesurl: #
