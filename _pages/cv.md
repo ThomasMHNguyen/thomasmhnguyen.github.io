@@ -2,6 +2,6 @@
 layout: redirect
 title: "Resume"
 permalink: /resume/
-paperurl: https://thomasmhnguyen.github.io/files/CV_TN.pdf
+destination: https://thomasmhnguyen.github.io/Resume/CV_TN.pdf
 canonical: true
 ---
