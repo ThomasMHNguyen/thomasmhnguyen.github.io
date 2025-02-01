@@ -12,7 +12,7 @@ I developed an innovative vectorization algorithm for my CFD-FSI simulations to 
 
 3. Simulations **with** intra-particle interaction computations (with time-steps of $\Delta t = 10^{-4}$) using nested *for*-loops; listed as "Non-Local:Non-Vectorized"
 
-4. Simulations **with** intra-particle interaction computations (with time-steps of \\\Delta t = 10^{-4}\\) using nested back-end C/C++ compiler for the nested *for*-loops; listed as "Non-Local:Numba Optimized"
+4. Simulations **with** intra-particle interaction computations (with time-steps of \\(\Delta t = 10^-4\\)) using nested back-end C/C++ compiler for the nested *for*-loops; listed as "Non-Local:Numba Optimized"
 
 5. Simulations **with** intra-particle interaction computations (with time-steps of $\Delta t = 10^{-4}$) using full vectorization of these computations; listed as "Non-Local:Vectorized"
 
