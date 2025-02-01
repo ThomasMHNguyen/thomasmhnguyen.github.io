@@ -1,7 +1,7 @@
 ---
 title: "Buckling and Transport of Heterogeneously Stiff Elastic Fibers in Microscale Flows"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Talk"
 permalink: /talks/talk_3
 venue: "2022 AIChE Annual Meeting"
 date: 2022-11-16

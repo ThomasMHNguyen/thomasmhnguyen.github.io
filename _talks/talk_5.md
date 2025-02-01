@@ -1,7 +1,7 @@
 ---
 title: "Transport and clogging of fibers in Millifluidic Channels"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Talk"
 permalink: /talks/talk_5
 venue: "2024 AIChE Annual Meeting"
 date: 2024-10-30

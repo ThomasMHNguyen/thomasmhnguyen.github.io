@@ -1,7 +1,7 @@
 ---
 title: "Signatures of cross-streamline migration of elastic fibers in microscale flows"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Talk"
 permalink: /talks/talk_4
 venue: "76th Annual Meeting of the Division of Fluid Dynamics "
 date: 2023-11-19

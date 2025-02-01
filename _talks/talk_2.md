@@ -1,7 +1,7 @@
 ---
-title: "Structural Instability and Transport of Flexible Fibers with Non-Uniform Rigiditys"
+title: "Structural Instability and Transport of Flexible Fibers with Non-Uniform Rigidity"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Poster"
 permalink: /talks/talk_2
 venue: "2021 AIChE Annual Meeting"
 date: 2021-11-08

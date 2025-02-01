@@ -4,6 +4,10 @@ excerpt: "I developed an innovative vectorization algorithm for my CFD-FSI simul
 collection: portfolio
 ---
 
+
+<img width="520" src='/images/vect_times.png'>
+
+
 I developed an innovative vectorization algorithm for my CFD-FSI simulations to speed up intra-particle interaction computations. This vectorization algorithm was benchmarked against the following (see graphic):
 
 1. Simulations **without** intra-particle interaction computations (with time-steps of \\(\Delta t = 10^{-3}\\)); listed as "Local:Optimized"
@@ -16,8 +20,6 @@ I developed an innovative vectorization algorithm for my CFD-FSI simulations to 
 
 5. Simulations **with** intra-particle interaction computations (with time-steps of \\(\Delta t = 10^{-4}\\)) using full vectorization of these computations; listed as "Non-Local:Vectorized"
 
-
-<br/><img src='/images/vect_times.png'>
 
 ### Notes
 
