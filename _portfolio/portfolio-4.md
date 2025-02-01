@@ -16,4 +16,11 @@ I developed an innovative vectorization algorithm for my CFD-FSI simulations to 
 
 5. Simulations **with** intra-particle interaction computations (with time-steps of \\(\Delta t = 10^{-4}\\)) using full vectorization of these computations; listed as "Non-Local:Vectorized"
 
+
+<br/><img src='/images/vect_times.png'>
+
+### Notes
+
+The benchmarks displayed here are for single-particle simulations. For multi-particle calculations, the vectorization boost in decreased computation times is expected to be approximately the same amount for single-particle calculations or even greater.
+
 [Link to GitHub Repo will be created soon!]()
