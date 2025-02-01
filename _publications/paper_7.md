@@ -7,5 +7,5 @@ category: manuscripts
 venue: 'Soft Matter'
 slidesurl: #
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2024/sm/d3sm01499a'
-citation: 'Thomas Nguyen; Harishankar Manikantan'
+citation: '<b>Thomas Nguyen<\b>; Harishankar Manikantan'
 ---
