@@ -1,4 +1,3 @@
----
 title: "TCR Repertoires of Thymic Conventional and Regulatory T Cells: Identification and Characterization of Both Unique and Shared TCR Sequences"
 collection: publications
 permalink: /publication/paper_1
