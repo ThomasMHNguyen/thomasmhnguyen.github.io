@@ -15,9 +15,10 @@ package-lock.json
 # Used for VS Code
 current_job.code-workspace
 
-# Remove Blog Posts Page
+# Remove Specific Pages
+_pages/teaching.html
+_talks/2013-03-01-tutorial-1.md
 
-
-#Remove Specific pages
+#Remove Specific folders
 _posts/
 _teaching/
