@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# Research Interests & Specialties:
+## Research Interests & Specialties:
 **Particle Suspensions in Viscous Fluids:** Analysis of anisotropic-shaped particle dynamics in viscous fluids for tunable flow properties in engineering and biomedical applications.
 **Computational Modeling/Simulations**: Computational fluid dynamics (CFD) & fluid-structure interaction (FSI)
 
-# Career Summary:
+## Career Summary:
 
 ### Graduate School 
 I am a Chemical Engineering Ph.D. Candidate at [University of California, Davis](https://che.engineering.ucdavis.edu/) advised by [Dr. Harishankar Manikantan](https://manikantan.faculty.ucdavis.edu/research/). My current research focuses on examining the relationship between slender/elongated particles (biopolymers such as actin filaments /microtubules, paper pulp fibers, rigid nylon fibers, etc.) and the surrounding viscous fluid. 
@@ -22,6 +22,6 @@ I obtained my B.S. degree in Chemical Engineering in 2017 from [North Carolina S
 
 After graduating, I spent 2 years at the [National Institute of Aging](https://www.nia.nih.gov/) in Baltimore, MD in the Laboratory of Immunology & Molecular Biology. My Principal Investigator was [Dr. Nan-ping Weng](https://irp.nih.gov/pi/nan-ping-weng). Utilizing bioinformatics techniques, I developed computational tools to process Next-Generation Sequencing data from methods such as bulk RNA-Seq, ChIP-Seq, ATAC-Seq, scRNA-Seq, etc. Additionally, I employed statistical, and data science techniques to determine how the immune system changes with aging. 
 
-### Projects
+## Projects
 
-For a brief summary of my publicly available projects I worked on at the NIA & graduate school, please visit my Portfolio Page!
+For a brief summary of and access to my publicly available projects I worked on at the NIA & graduate school, please visit my Portfolio Page!
