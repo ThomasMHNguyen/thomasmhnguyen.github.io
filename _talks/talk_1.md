@@ -7,4 +7,3 @@ venue: "National Institute on Aging"
 date: 2019-05-01
 location: "Baltimore, MD"
 ---
-<img width="520" src="images/filament_position_shear_simulations.png">
