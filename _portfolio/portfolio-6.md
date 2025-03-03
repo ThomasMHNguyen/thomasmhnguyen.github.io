@@ -3,6 +3,6 @@ title: "Physics-Informed Neural Network to solve Fundamental Heat Transfer/Diffu
 excerpt: "I developed a neural network to solve partial differential equations that govern fundamental phenomena."
 collection: project_portfolio
 ---
-<img width="520" src="/images/final.jpg">
+<img width="520" src="/images/final.png">
 
 [Link to GitHub Repo](https://github.com/ThomasMHNguyen/PINN_1D_Heat)
