@@ -1,8 +1,8 @@
 ---
-title: "Microfluidic Transport Dynamics of flexible fiber-like particles"
-excerpt: "Researched and developed methods for CFD-FSI simulations to model and quantify particle transport dynamics in constricted flow geometries"
+title: "Analysis of fiber-like particle bending in fluid flow"
+excerpt: "I developed a predictive framework consisting of CFD-FSI simulations and image-processing techniques to quantify particle bending due to changes in the particle's mechanical properties."
 collection: project_portfolio
 ---
-This work was published in [*Frontiers in Soft Matter*](https://doi.org/10.1039/d3sm01499a) in 2024.
+This work was published in [*Frontiers in Soft Matter*](https://doi.org/10.3389/frsfm.2022.977729) in 2023.
 
-[Link to GitHub Repo](https://github.com/ThomasMHNguyen/Simple_Shear_Migration)
+[Link to GitHub Repo](https://github.com/ThomasMHNguyen/Non_Constant_K)

@@ -1,8 +1,10 @@
 ---
-title: "Analysis of fiber-like particle bending in fluid flow"
-excerpt: "I developed a framework consisting of CFD-FSI simulations and image-processing techniques to quantify particle bending due to changes in the particle's mechanical properties."
+title: "Logitudinal Study of T-cell receptor (TCR) repertoire of CD4+ and CD8+ T-cells"
+excerpt: "I developed a data processing pipeline to convert RNA-Seq data to matched \\(\alpha \beta\\) TCRs from 30 human patients across 7 years. I also developed a suite of statistical and data science analysis tools to determine how the TCR repertoire changes with aging and across the 7 year gap."
 collection: project_portfolio
 ---
-This work was published in [*Frontiers in Soft Matter*](https://doi.org/10.3389/frsfm.2022.977729) in 2023.
 
-[Link to GitHub Repo](https://github.com/ThomasMHNguyen/Non_Constant_K)
+This work was published in [*Frontiers in Soft Matter*](https://doi.org/10.1172/JCI158122) in 2022.
+
+
+[Link to GitHub Repo](https://github.com/Weng-lab-NIH/TCR_Longitudinal_Aging)
