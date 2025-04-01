@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: "Resume"
-permalink: /Resume/
-destination: https://thomasmhnguyen.github.io/Resume/Resume_TN.pdf
+title: "CV"
+permalink: /CV/
+destination: https://thomasmhnguyen.github.io/CV/CV_TN.pdf
 canonical: true
 ---
