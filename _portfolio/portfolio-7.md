@@ -1,0 +1,8 @@
+---
+title: "Predicting All-Stars from the 2019 NBA Draft"
+excerpt: "Using quantifiable metrics of NBA All-Stars, I built 4 machine learning classification models (logistic regression, support vector, random forest, gradient boost classifier) to predict which players from the 2019 NBA Draft were most likely to become all-stars based on their college statistics. "
+collection: project_portfolio
+---
+<img width="520" src="/images/probability_relative.png">
+
+[Link to GitHub Repo](https://github.com/ThomasMHNguyen/all_star_prediction)

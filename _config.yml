@@ -24,15 +24,15 @@ author:
   avatar           : "profile.jpg"
   name             : "Thomas Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Chemical Engineering Ph.D. Student (2019-2025) at UC Davis"
+  bio              : "Chemical Engineering Ph.D. Graduate (2019-2025) from UC Davis"
   location         : "Davis, CA"
   employer         : "University of California-Davis"
   uri              : # URL
-  email            : "tmhnguyen@ucdavis.edu" 
+  email            : "tmh.nguyen9192w@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Y_zaWs0AAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?user=m3X8RA8AAAAJ&hl=en&authuser=1"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7580-1617"
   semantic         : # URL
