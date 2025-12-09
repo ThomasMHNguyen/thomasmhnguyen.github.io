@@ -83,6 +83,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Project Category - The following the list of coding project categories and their headings
+project_category:
+  NIA:
+    title: 'National Institute on Aging Post-Bac Work'
+  UCD:
+    title: 'UC Davis Ph.D. Work'    
+  personal:
+    title: 'Personal Projects'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

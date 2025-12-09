@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## Research Interests & Specialties:
-**Particle Suspensions in Viscous Fluids:** Analysis of anisotropic-shaped particle dynamics in viscous fluids for tunable flow properties in engineering and biomedical applications.
-**Computational Modeling/Simulations**: Computational fluid dynamics (CFD) & fluid-structure interaction (FSI)
+## Research Specialties:
+**Particle Suspensions in Viscous Fluids:** Analysis of elastic and rigid fibers in viscous fluids for tunable flow properties in engineering and biomedical applications.
+**Computational Modeling/Simulations**: Computational fluid dynamics (CFD) & fluid-structure interactions (FSI)
+
+## Research Interests:
+Fluid mechanics; biological fluid dynamics; transport phenomena; Multiphysics computational modeling and simulations; mathematical modeling; algorithm development
 
 ## Career Summary:
 

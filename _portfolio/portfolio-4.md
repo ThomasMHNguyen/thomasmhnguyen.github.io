@@ -1,6 +1,7 @@
 ---
 title: "Vectorization Calculations for Fast CFD Computation Times"
 excerpt: "I developed an innovative vectorization algorithm for my CFD-FSI simulations to speed up intra-particle interaction computations. Benchmarked against other methods, the vectorization results in an approximately 100x decrease in computation times."
+category: UCD
 collection: project_portfolio
 ---
 
