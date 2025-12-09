@@ -17,7 +17,7 @@ Fluid mechanics; biological fluid dynamics; transport phenomena; Multiphysics co
 ## Career Summary:
 
 ### Graduate School 
-I am a Chemical Engineering Ph.D. Candidate at [University of California, Davis](https://che.engineering.ucdavis.edu/) advised by [Dr. Harishankar Manikantan](https://manikantan.faculty.ucdavis.edu/research/). My current research focuses on examining the relationship between slender/elongated particles (biopolymers such as actin filaments /microtubules, paper pulp fibers, rigid nylon fibers, etc.) and the surrounding viscous fluid. 
+I was a Chemical Engineering Ph.D. Candidate at [University of California, Davis](https://che.engineering.ucdavis.edu/) advised by [Dr. Harishankar Manikantan](https://manikantan.faculty.ucdavis.edu/research/). My current research focuses on examining the relationship between slender/elongated particles (biopolymers such as actin filaments /microtubules, paper pulp fibers, rigid nylon fibers, etc.) and the surrounding viscous fluid. 
 
 
 ### Before Graduate School
